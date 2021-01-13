@@ -1,4 +1,10 @@
-### Hi there 👋
+#   Bikram Modak- System Software Developer👨‍💻
+***
+##  Hi there 👋
+
+### About Me
+    An aspiring software engineer who likes to read, eat, code and sleep.
+    
 
 <!--
 **bikz007/bikz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
