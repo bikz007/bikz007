@@ -3,8 +3,9 @@
 ### About Me 👨‍💻
 An aspiring software engineer who likes to read, eat, code and sleep.
     
-[![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikz007&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikz007&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikz007)](https://github.com/anuraghazra/github-readme-stats)
     
 
 <!--
