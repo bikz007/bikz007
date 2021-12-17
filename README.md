@@ -7,7 +7,10 @@ An aspiring software engineer who likes to read, eat, code and sleep.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikz007)](https://github.com/anuraghazra/github-readme-stats)
     
-
+- 📫 Reach out to me: <br/>
+    * Instagram: [@bikramized](https://www.instagram.com/bikramized/)
+    * Twitter: [@bikramized](https://twitter.com/bikramized)
+    * Linked: [@bikram-modak](https://www.linkedin.com/in/bikram-modak/)
 <!--
 **bikz007/bikz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
