@@ -1,7 +1,12 @@
-#   Bikram Modak- System Software Developer👋
+#   Bikram Modak- Graphics Software Engineer👋
 
 ### About Me 👨‍💻
 An aspiring software engineer who likes to read, eat, code and sleep.
+
+- 🔭 I’m currently working on my Backend technology skills.
+- 🌱 I’m currently learning Web3 development.
+- 👯 I’m looking to collaborate on any web based projects both frontend and backend.
+- 😄 Pronouns: he/him
     
 [![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikz007&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
