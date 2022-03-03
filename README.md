@@ -1,7 +1,7 @@
 #   Bikram Modak- Graphics Software Engineer👋
 
 ### About Me 👨‍💻
-An aspiring software engineer who likes to read, eat, code and sleep.
+A software engineer who likes to read, eat, code and sleep.
 
 - 🔭 I’m currently working on my Backend technology skills.
 - 🌱 I’m currently learning Web3 development.
