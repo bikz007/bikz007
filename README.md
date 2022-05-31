@@ -1,7 +1,7 @@
 #   Bikram Modak- Graphics Software Engineer👋
 
 ### About Me 👨‍💻
-A software engineer who likes to read, eat, code and sleep.
+A software engineer who likes to read, eat, code and sleep. I like travelling, trying out new cuisines, spending time alone. I spend my free time reading books, writing essays, learning new languages to speak, doodling, playing my ukulele, listening to pop and rock music and also offer mentoring sessions to budding engineers and non-technical professionals. 👨🏽‍💻 In my current role I’m a graphics software engineer, I develop simulation models that is used by hardware teams, driver teams and external customers to validate various features of next generation graphics hardware products. My day to day job includes reviewing design change with architects, implementing feature and enhancements, validating and deploying.
 
 - 🔭 I’m currently working on my Backend technology skills.
 - 🌱 I’m currently learning Web3 development.
@@ -9,8 +9,6 @@ A software engineer who likes to read, eat, code and sleep.
 - 😄 Pronouns: he/him
     
 [![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikz007&hide=prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikz007)](https://github.com/anuraghazra/github-readme-stats)
     
 - 📫 Reach out to me: <br/>
     * Instagram: [@bikramized](https://www.instagram.com/bikramized/)
